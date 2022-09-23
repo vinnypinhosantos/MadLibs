@@ -29,4 +29,5 @@ print(f"Meu nome é {nome}")
 ## O Projeto
 O projeto é bem simples: o usuário será perguntado por algumas palavras e no final será gerada uma história colocando essas palavras no contexto criado com a utilização de f-strings.
 
-### Referência
+## Referência
+<https://www.youtube.com/watch?v=8ext9G7xspg&t=287s>
